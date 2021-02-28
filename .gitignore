@@ -35,3 +35,4 @@ override.tf.json
 /.idea/misc.xml
 /.idea/modules.xml
 /.idea/vcs.xml
+/.idea/github-actions-terraform-cloud-gh-pages.iml

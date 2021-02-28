@@ -1,7 +1,7 @@
 terraform {
   backend "remote" {
     workspaces {
-      name = ""
+      name = "gh-pages"
     }
   }
 }
